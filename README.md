@@ -19,11 +19,10 @@
 
  
  
-- 🚀 **Full Stack Developer (MERN)**  
+- 🚀 **Full Stack Developer (MERN)**
+  
 - 🎨 Frontend-focused with strong UI/UX sense  
 - 🌱 Currently building scalable & modern web apps  
-- 🌍 Open to remote roles, collaborations & freelance work
-- 🧠 Strong problem-solving mindset with clean code practices  
 - ⚙️ Passionate about performance, accessibility & best practice  
 - ⚡ Coffee + late-night coding = productivity mode  
 - 📫 How to reach me **ahmedoffice69@gmail.com**
