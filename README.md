@@ -41,7 +41,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-devx/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ahmedoffice69@gmail.com">
@@ -75,10 +75,29 @@
 
 ---
 
-
-
-<br>
  
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Devx&show_icons=true&theme=radical&hide_border=true" height="160px"/>
+  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Devx&layout=compact&langs_count=10&theme=radical" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-Devx&theme=radical"/>
+</p>
+
+ 
+ 
+
+---
+
+ 
+
+  
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
@@ -86,4 +105,4 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=100&section=footer"  width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=100&section=footer" width="100%"/>
