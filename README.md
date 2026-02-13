@@ -44,9 +44,7 @@
   <a href="https://www.linkedin.com/in/ahmed-devx/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ahmedoffice69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-764BA2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+   
 </p>
 
 
