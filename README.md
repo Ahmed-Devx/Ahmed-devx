@@ -66,10 +66,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-**Core Skills:**  
-- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB   
-- **Other Tools:** Git, Figma  
 
 ---
 
