@@ -12,7 +12,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Devx&label=Profile%20views&color=667EEA&style=flat" alt="Ahmed-Devx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Devx&label=Profile%20views&color=667EEA&style=flat" alt="AhmedDevx" /> </p>
  
 - 🚀 **Full Stack Developer (MERN)**
   
@@ -29,7 +29,7 @@
 
 <p align="center">
    
-  <a href="https://www.linkedin.com/in/ahmeddevx/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmeddevx07/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -46,17 +46,17 @@
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Stats
 
  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Devx&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedDevx07&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Ahmed-Devx&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=AhmedDevx07&theme=tokyonight&hide_border=true" 
     height="170"
   />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-Devx&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedDevx07&theme=tokyonight"/>
 </p>
  
 ---
