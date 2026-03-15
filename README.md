@@ -59,7 +59,17 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedDevx07&theme=tokyonight"/>
 </p>
- 
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedDevx07&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+ <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedDevx07&theme=tokyo-night"/>
+</p>
+
+
+
 ---
  
 ## 🐍 A Snake Eating my Contributions Graph
