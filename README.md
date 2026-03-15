@@ -15,13 +15,13 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Devx&label=Profile%20views&color=667EEA&style=flat" alt="AhmedDevx" /> </p>
  
-- 🚀 MERN Stack Developer
+* 🚀 Full Stack MERN Developer building modern web applications
   
-- 🎨 Strong focus on modern UI/UX
-- 🌱 Currently learning advanced backend architecture
-- ⚡ Passionate about performance & scalable apps
-- 💡 Love building real world projects
-- 📫 Reach me: **ahmedoffice69@gmail.com**
+* 🎨 Crafting responsive and user-friendly interfaces
+* ⚡ Focused on performance, scalability & clean architecture
+* 🌐 Passionate about creating modern web experiences
+* 🧠 Continuously learning new technologies and best practices 
+* 💡 Turning ideas into real-world applications
 
 <h2 style="text-align: center;">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
@@ -30,21 +30,17 @@
  
 
 <p align="center">
- 
+
+ <a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/ahmeddevx07/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-</a>
-
-<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:ahmedoffice69@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
