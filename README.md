@@ -27,13 +27,28 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
   Connect With Me
 </h2>
+ 
 
 <p align="center">
-   
-  <a href="https://www.linkedin.com/in/ahmeddevx07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+ 
+<a href="https://www.linkedin.com/in/ahmeddevx07/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:ahmedoffice69@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
+
 
 ---
 
