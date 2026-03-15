@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=180&section=header&text=Muhammad%20Ahmed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
+ 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=764BA2&center=true&vCenter=true&lines=Hi+There!+👋;I+am+Muhammad+Ahmed;Full+Stack+Developer"/>
