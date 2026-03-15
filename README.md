@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=180&section=header&text=Muhammad%20Ahmed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
  
+<h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
+<h3 align="center">Full Stack MERN Developer | Building Modern Web Applications</h3>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=764BA2&center=true&vCenter=true&lines=Hi+There!+👋;I+am+Muhammad+Ahmed;Full+Stack+Developer"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=764BA2&center=true&vCenter=true&lines=Full+Stack+Developer;React+%2B+Node+Developer;Building+Modern+Web+Apps"/>
 </p>
  
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -14,13 +15,13 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Devx&label=Profile%20views&color=667EEA&style=flat" alt="AhmedDevx" /> </p>
  
-- 🚀 **Full Stack Developer (MERN)**
+- 🚀 MERN Stack Developer
   
-- 🎨 Frontend-focused with strong UI/UX sense  
-- 🌱 Currently building scalable & modern web apps  
-- ⚙️ Passionate about performance, accessibility & best practice  
-- ⚡ Coffee + late-night coding = productivity mode  
-- 📫 How to reach me **ahmedoffice69@gmail.com**
+- 🎨 Strong focus on modern UI/UX
+- 🌱 Currently learning advanced backend architecture
+- ⚡ Passionate about performance & scalable apps
+- 💡 Love building real world projects
+- 📫 Reach me: **ahmedoffice69@gmail.com**
 
 <h2 style="text-align: center;">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
