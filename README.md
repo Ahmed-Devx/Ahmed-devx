@@ -64,18 +64,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=AhmedDevx07&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
- <p align="center">
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedDevx07&theme=tokyo-night"/>
 </p>
-
-
-
----
  
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=100&section=footer" width="100%"/>
