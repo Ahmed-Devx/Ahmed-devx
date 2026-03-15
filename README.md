@@ -14,14 +14,17 @@
 </a>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Devx&label=Profile%20views&color=667EEA&style=flat" alt="AhmedDevx" /> </p>
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
  
-* 🚀 Full Stack MERN Developer building modern web applications
+- 🚀 Full Stack MERN Developer crafting modern web applications
   
-* 🎨 Crafting responsive and user-friendly interfaces
-* ⚡ Focused on performance, scalability & clean architecture
-* 🌐 Passionate about creating modern web experiences
-* 🧠 Continuously learning new technologies and best practices 
-* 💡 Turning ideas into real-world applications
+- 🎨 Specialized in responsive & user-friendly interfaces
+- ⚡ Focused on performance, scalability & clean architecture
+- 🌱 Continuously learning new technologies
+- 💡 Turning ideas into real-world web applications
 
 <h2 style="text-align: center;">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
@@ -30,10 +33,6 @@
  
 
 <p align="center">
-
- <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/ahmeddevx07/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
