@@ -31,9 +31,6 @@
   Connect With Me
 </h2>
  
-
- <h2 align="center">🌐 Connect With Me</h2>
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ahmeddevx07/" target="_blank">
