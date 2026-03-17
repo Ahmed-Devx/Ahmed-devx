@@ -32,6 +32,8 @@
 </h2>
  
 
+ <h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ahmeddevx07/" target="_blank">
@@ -42,7 +44,12 @@
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://github.com/AhmedDevx07" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-AhmedDevx-667EEA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
+
 
 
 ---
