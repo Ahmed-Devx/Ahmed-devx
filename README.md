@@ -13,7 +13,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedDevx07&label=Profile%20views&color=667EEA&style=flat" alt="AhmedDevx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Devx&label=Profile%20views&color=667EEA&style=flat" alt="AhmedDevx" /> </p>
 
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
