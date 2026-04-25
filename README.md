@@ -64,7 +64,7 @@
 <tr>
 
 <td width="50%">
-<h3 align="center">🌤️ Next Weather App</h3>
+<h3 align="center">🌤️ SkyCast PRO</h3>
 <p align="center">
 <a href="https://github.com/AhmedDevx07/Next-Weather-App" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDevx07&repo=Next-Weather-App&theme=tokyonight&hide_border=true" />
@@ -78,7 +78,7 @@
 </td>
 
 <td width="50%">
-<h3 align="center">📋 React Tasks Dashboard</h3>
+<h3 align="center">📋 CodeLab PRO</h3>
 <p align="center">
 <a href="https://github.com/AhmedDevx07/React-Tasks-Dashboard" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDevx07&repo=React-Tasks-Dashboard&theme=tokyonight&hide_border=true" />
