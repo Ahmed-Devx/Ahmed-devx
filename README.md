@@ -60,7 +60,7 @@
 <tr>
 
 <td width="50%">
-<h3 align="center">🌤️ SkyCast PRO</h3>
+<h3 align="center">🌤️ SkyCast</h3>
 <p align="center">
 <a href="https://github.com/AhmedDevx07/Next-Weather-App" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDevx07&repo=Next-Weather-App&theme=tokyonight&hide_border=true" />
