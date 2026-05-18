@@ -53,44 +53,7 @@
 </p>
  
 ---
-
-## 🚀 Featured Projects
-
-<table  align="center">
-<tr>
-
-<td width="50%">
-<h3 align="center">🌤️ SkyCast</h3>
-<p align="center">
-<a href="https://github.com/AhmedDevx07/Next-Weather-App" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDevx07&repo=Next-Weather-App&theme=tokyonight&hide_border=true" />
-</a>
-</p>
-<ul>
-  <li>Real-time weather data with dynamic city search</li>
-  <li>Built using Next.js + API integration</li>
-  <li>Modern UI with responsive design</li>
-</ul>
-</td>
-
-<td width="50%">
-<h3 align="center">📋 CodeLab PRO</h3>
-<p align="center">
-<a href="https://github.com/AhmedDevx07/React-Tasks-Dashboard" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDevx07&repo=React-Tasks-Dashboard&theme=tokyonight&hide_border=true" />
-</a>
-</p>
-<ul>
-  <li>Task management dashboard with clean UI</li>
-  <li>Built using React + modern state handling</li>
-  <li>Interactive components & responsive layout</li>
-</ul>
-</td>
-
-</tr>
-</table>
-
----
+ 
  
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Stats
 
