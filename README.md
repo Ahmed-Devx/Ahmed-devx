@@ -1,26 +1,25 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=180&section=header&text=Muhammad%20Ahmed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
  
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
-<h3 align="center">Frontend Developer | React.js & Next.js | Building Modern Web Applications</h3>
-
+<h3 align="center">MERN Stack & Next.js Developer | Building Full-Stack Web Applications</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=764BA2&center=true&vCenter=true&lines=Frontend+Developer;React+%2B+Next.js+Developer;TypeScript+Enthusiast;Building+Scalable+Web+Apps"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=764BA2&center=true&vCenter=true&lines=MERN+Stack+Developer;Next.js+Developer;Full-Stack+Web+Developer"/>
 </p>
  
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Devx&label=Profile%20views&color=667EEA&style=flat" alt="AhmedDevx" /> </p>
-
 <a href="https://ahmeddevx07.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
 </a>
  
-- Frontend Developer focused on building modern web applications
+- 🚀 Full-Stack MERN Developer focused on building production-ready web applications
   
-- Specialized in responsive, user-friendly UI/UX
-- Strong focus on performance, scalability & clean code
-- Currently learning advanced Full Stack MERN development at SMIT
-- Passionate about turning ideas into real-world projects
+- ⚡ Specialized in React.js, Next.js, Node.js, Express.js & MongoDB
+- 🎯 Strong focus on clean architecture, performance & scalable code
+- 🎓 Completed Full-Stack Development program at SMIT (May 2026)
+- 💡 Started coding journey in early 2025 through self-learning
+- 🤝 Available for freelance projects & full-time opportunities 
 
 <h2 style="text-align: center;">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
